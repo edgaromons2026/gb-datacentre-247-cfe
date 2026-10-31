@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.err
+*.csv
+!sens/era5_bias_factors_monthly.csv
+*.nc
+*.tif
+*.png
+.ipynb_checkpoints/
