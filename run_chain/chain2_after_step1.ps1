@@ -1,0 +1,1 @@
+﻿Wait-Process -Id 24968 -ErrorAction SilentlyContinue; Add-Content "D:\Research\GB_DataCentre_Microgrid_TEA\03_Models\corrected_v1\logs\chain.log" "[1] islanded stress python exited $(Get-Date)"; & cmd.exe /c "D:\Research\GB_DataCentre_Microgrid_TEA\03_Models\corrected_v1\logs\chain2.cmd"
