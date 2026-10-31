@@ -1,0 +1,18 @@
+pandas>=2.0
+numpy
+pvlib==0.16.1
+windpowerlib==0.2.2
+openpyxl
+requests
+# land step only (easier with conda: conda install -c conda-forge glaes rasterio pyproj geopandas)
+rasterio
+pyproj
+geopandas
+# optimisation (flagship runs)
+linopy
+highspy
+xarray
+# figures and tables (analysis/)
+matplotlib
+shapely
+cartopy

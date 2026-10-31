@@ -1,0 +1,1 @@
+﻿Wait-Process -Id 6288 -ErrorAction SilentlyContinue; & powershell.exe -NoProfile -ExecutionPolicy Bypass -File "D:\Research\GB_DataCentre_Microgrid_TEA\03_Models\corrected_v1\logs\step7_robust1h.ps1"
